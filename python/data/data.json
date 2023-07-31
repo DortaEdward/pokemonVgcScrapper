@@ -1,0 +1,2327 @@
+[
+  {
+    "Rank": "1",
+    "Pokemon": "Flutter Mane",
+    "Usage": "49.03383%"
+  },
+  {
+    "Rank": "2",
+    "Pokemon": "Urshifu-Rapid-Strike",
+    "Usage": "48.97556%"
+  },
+  {
+    "Rank": "3",
+    "Pokemon": "Tornadus",
+    "Usage": "32.57582%"
+  },
+  {
+    "Rank": "4",
+    "Pokemon": "Amoonguss",
+    "Usage": "31.26551%"
+  },
+  {
+    "Rank": "5",
+    "Pokemon": "Chien-Pao",
+    "Usage": "30.15355%"
+  },
+  {
+    "Rank": "6",
+    "Pokemon": "Heatran",
+    "Usage": "29.74608%"
+  },
+  {
+    "Rank": "7",
+    "Pokemon": "Landorus-Therian",
+    "Usage": "26.52714%"
+  },
+  {
+    "Rank": "8",
+    "Pokemon": "Cresselia",
+    "Usage": "23.75665%"
+  },
+  {
+    "Rank": "9",
+    "Pokemon": "Rillaboom",
+    "Usage": "22.89070%"
+  },
+  {
+    "Rank": "10",
+    "Pokemon": "Dragonite",
+    "Usage": "18.93566%"
+  },
+  {
+    "Rank": "11",
+    "Pokemon": "Ursaluna",
+    "Usage": "18.84300%"
+  },
+  {
+    "Rank": "12",
+    "Pokemon": "Iron Hands",
+    "Usage": "17.86378%"
+  },
+  {
+    "Rank": "13",
+    "Pokemon": "Gholdengo",
+    "Usage": "12.44895%"
+  },
+  {
+    "Rank": "14",
+    "Pokemon": "Regieleki",
+    "Usage": "11.84415%"
+  },
+  {
+    "Rank": "15",
+    "Pokemon": "Chi-Yu",
+    "Usage": "11.46349%"
+  },
+  {
+    "Rank": "16",
+    "Pokemon": "Thundurus",
+    "Usage": "10.21401%"
+  },
+  {
+    "Rank": "17",
+    "Pokemon": "Iron Bundle",
+    "Usage": "9.76891%"
+  },
+  {
+    "Rank": "18",
+    "Pokemon": "Urshifu",
+    "Usage": "9.56383%"
+  },
+  {
+    "Rank": "19",
+    "Pokemon": "Goodra-Hisui",
+    "Usage": "9.21984%"
+  },
+  {
+    "Rank": "20",
+    "Pokemon": "Indeedee-F",
+    "Usage": "6.89768%"
+  },
+  {
+    "Rank": "21",
+    "Pokemon": "Basculegion",
+    "Usage": "6.35371%"
+  },
+  {
+    "Rank": "22",
+    "Pokemon": "Torkoal",
+    "Usage": "6.35341%"
+  },
+  {
+    "Rank": "23",
+    "Pokemon": "Regidrago",
+    "Usage": "5.93283%"
+  },
+  {
+    "Rank": "24",
+    "Pokemon": "Grimmsnarl",
+    "Usage": "5.58531%"
+  },
+  {
+    "Rank": "25",
+    "Pokemon": "Ting-Lu",
+    "Usage": "5.30212%"
+  },
+  {
+    "Rank": "26",
+    "Pokemon": "Kingambit",
+    "Usage": "4.99803%"
+  },
+  {
+    "Rank": "27",
+    "Pokemon": "Enamorus-Therian",
+    "Usage": "4.74553%"
+  },
+  {
+    "Rank": "28",
+    "Pokemon": "Pelipper",
+    "Usage": "4.68851%"
+  },
+  {
+    "Rank": "29",
+    "Pokemon": "Maushold",
+    "Usage": "4.32759%"
+  },
+  {
+    "Rank": "30",
+    "Pokemon": "Zapdos",
+    "Usage": "4.02741%"
+  },
+  {
+    "Rank": "31",
+    "Pokemon": "Armarouge",
+    "Usage": "3.93113%"
+  },
+  {
+    "Rank": "32",
+    "Pokemon": "Arcanine-Hisui",
+    "Usage": "3.89183%"
+  },
+  {
+    "Rank": "33",
+    "Pokemon": "Landorus",
+    "Usage": "3.71531%"
+  },
+  {
+    "Rank": "34",
+    "Pokemon": "Abomasnow",
+    "Usage": "3.66623%"
+  },
+  {
+    "Rank": "35",
+    "Pokemon": "Annihilape",
+    "Usage": "3.64531%"
+  },
+  {
+    "Rank": "36",
+    "Pokemon": "Moltres-Galar",
+    "Usage": "3.60211%"
+  },
+  {
+    "Rank": "37",
+    "Pokemon": "Sneasler",
+    "Usage": "3.57246%"
+  },
+  {
+    "Rank": "38",
+    "Pokemon": "Lilligant-Hisui",
+    "Usage": "3.47800%"
+  },
+  {
+    "Rank": "39",
+    "Pokemon": "Arcanine",
+    "Usage": "3.44386%"
+  },
+  {
+    "Rank": "40",
+    "Pokemon": "Baxcalibur",
+    "Usage": "3.12295%"
+  },
+  {
+    "Rank": "41",
+    "Pokemon": "Enamorus",
+    "Usage": "3.10634%"
+  },
+  {
+    "Rank": "42",
+    "Pokemon": "Palafin",
+    "Usage": "2.79521%"
+  },
+  {
+    "Rank": "43",
+    "Pokemon": "Mimikyu",
+    "Usage": "2.68636%"
+  },
+  {
+    "Rank": "44",
+    "Pokemon": "Kleavor",
+    "Usage": "2.68497%"
+  },
+  {
+    "Rank": "45",
+    "Pokemon": "Gastrodon",
+    "Usage": "2.68385%"
+  },
+  {
+    "Rank": "46",
+    "Pokemon": "Glastrier",
+    "Usage": "2.65695%"
+  },
+  {
+    "Rank": "47",
+    "Pokemon": "Roaring Moon",
+    "Usage": "2.58622%"
+  },
+  {
+    "Rank": "48",
+    "Pokemon": "Dondozo",
+    "Usage": "2.46328%"
+  },
+  {
+    "Rank": "49",
+    "Pokemon": "Tatsugiri",
+    "Usage": "2.34536%"
+  },
+  {
+    "Rank": "50",
+    "Pokemon": "Gyarados",
+    "Usage": "2.32921%"
+  },
+  {
+    "Rank": "51",
+    "Pokemon": "Farigiraf",
+    "Usage": "2.27877%"
+  },
+  {
+    "Rank": "52",
+    "Pokemon": "Bellibolt",
+    "Usage": "2.16301%"
+  },
+  {
+    "Rank": "53",
+    "Pokemon": "Brute Bonnet",
+    "Usage": "2.15182%"
+  },
+  {
+    "Rank": "54",
+    "Pokemon": "Hatterene",
+    "Usage": "1.68109%"
+  },
+  {
+    "Rank": "55",
+    "Pokemon": "Scizor",
+    "Usage": "1.67967%"
+  },
+  {
+    "Rank": "56",
+    "Pokemon": "Great Tusk",
+    "Usage": "1.60349%"
+  },
+  {
+    "Rank": "57",
+    "Pokemon": "Azumarill",
+    "Usage": "1.59325%"
+  },
+  {
+    "Rank": "58",
+    "Pokemon": "Bruxish",
+    "Usage": "1.40189%"
+  },
+  {
+    "Rank": "59",
+    "Pokemon": "Thundurus-Therian",
+    "Usage": "1.39905%"
+  },
+  {
+    "Rank": "60",
+    "Pokemon": "Volcarona",
+    "Usage": "1.32915%"
+  },
+  {
+    "Rank": "61",
+    "Pokemon": "Garchomp",
+    "Usage": "1.21480%"
+  },
+  {
+    "Rank": "62",
+    "Pokemon": "Wo-Chien",
+    "Usage": "1.19432%"
+  },
+  {
+    "Rank": "63",
+    "Pokemon": "Zoroark-Hisui",
+    "Usage": "1.14446%"
+  },
+  {
+    "Rank": "64",
+    "Pokemon": "Oranguru",
+    "Usage": "1.14177%"
+  },
+  {
+    "Rank": "65",
+    "Pokemon": "Gothitelle",
+    "Usage": "1.08654%"
+  },
+  {
+    "Rank": "66",
+    "Pokemon": "Typhlosion-Hisui",
+    "Usage": "1.08423%"
+  },
+  {
+    "Rank": "67",
+    "Pokemon": "Spectrier",
+    "Usage": "1.07341%"
+  },
+  {
+    "Rank": "68",
+    "Pokemon": "Glimmora",
+    "Usage": "1.05594%"
+  },
+  {
+    "Rank": "69",
+    "Pokemon": "Bronzong",
+    "Usage": "1.01061%"
+  },
+  {
+    "Rank": "70",
+    "Pokemon": "Tsareena",
+    "Usage": "0.93510%"
+  },
+  {
+    "Rank": "71",
+    "Pokemon": "Dragapult",
+    "Usage": "0.90705%"
+  },
+  {
+    "Rank": "72",
+    "Pokemon": "Scream Tail",
+    "Usage": "0.88201%"
+  },
+  {
+    "Rank": "73",
+    "Pokemon": "Articuno-Galar",
+    "Usage": "0.77831%"
+  },
+  {
+    "Rank": "74",
+    "Pokemon": "Sylveon",
+    "Usage": "0.77009%"
+  },
+  {
+    "Rank": "75",
+    "Pokemon": "Garganacl",
+    "Usage": "0.75995%"
+  },
+  {
+    "Rank": "76",
+    "Pokemon": "Murkrow",
+    "Usage": "0.74031%"
+  },
+  {
+    "Rank": "77",
+    "Pokemon": "Talonflame",
+    "Usage": "0.73123%"
+  },
+  {
+    "Rank": "78",
+    "Pokemon": "Tyranitar",
+    "Usage": "0.73091%"
+  },
+  {
+    "Rank": "79",
+    "Pokemon": "Zapdos-Galar",
+    "Usage": "0.72719%"
+  },
+  {
+    "Rank": "80",
+    "Pokemon": "Orthworm",
+    "Usage": "0.71588%"
+  },
+  {
+    "Rank": "81",
+    "Pokemon": "Pawmot",
+    "Usage": "0.55637%"
+  },
+  {
+    "Rank": "82",
+    "Pokemon": "Overqwil",
+    "Usage": "0.54256%"
+  },
+  {
+    "Rank": "83",
+    "Pokemon": "Samurott-Hisui",
+    "Usage": "0.53223%"
+  },
+  {
+    "Rank": "84",
+    "Pokemon": "Corviknight",
+    "Usage": "0.52833%"
+  },
+  {
+    "Rank": "85",
+    "Pokemon": "Brambleghast",
+    "Usage": "0.48627%"
+  },
+  {
+    "Rank": "86",
+    "Pokemon": "Charizard",
+    "Usage": "0.44681%"
+  },
+  {
+    "Rank": "87",
+    "Pokemon": "Rotom-Wash",
+    "Usage": "0.43377%"
+  },
+  {
+    "Rank": "88",
+    "Pokemon": "Ceruledge",
+    "Usage": "0.40548%"
+  },
+  {
+    "Rank": "89",
+    "Pokemon": "Wyrdeer",
+    "Usage": "0.39539%"
+  },
+  {
+    "Rank": "90",
+    "Pokemon": "Sableye",
+    "Usage": "0.38570%"
+  },
+  {
+    "Rank": "91",
+    "Pokemon": "Klefki",
+    "Usage": "0.36397%"
+  },
+  {
+    "Rank": "92",
+    "Pokemon": "Raichu",
+    "Usage": "0.35814%"
+  },
+  {
+    "Rank": "93",
+    "Pokemon": "Meowscarada",
+    "Usage": "0.34820%"
+  },
+  {
+    "Rank": "94",
+    "Pokemon": "Tauros-Paldea-Aqua",
+    "Usage": "0.33530%"
+  },
+  {
+    "Rank": "95",
+    "Pokemon": "Chesnaught",
+    "Usage": "0.32165%"
+  },
+  {
+    "Rank": "96",
+    "Pokemon": "Iron Moth",
+    "Usage": "0.29775%"
+  },
+  {
+    "Rank": "97",
+    "Pokemon": "Jumpluff",
+    "Usage": "0.29699%"
+  },
+  {
+    "Rank": "98",
+    "Pokemon": "Drednaw",
+    "Usage": "0.27489%"
+  },
+  {
+    "Rank": "99",
+    "Pokemon": "Sandy Shocks",
+    "Usage": "0.25955%"
+  },
+  {
+    "Rank": "100",
+    "Pokemon": "Decidueye-Hisui",
+    "Usage": "0.25838%"
+  },
+  {
+    "Rank": "101",
+    "Pokemon": "Muk-Alola",
+    "Usage": "0.25071%"
+  },
+  {
+    "Rank": "102",
+    "Pokemon": "Articuno",
+    "Usage": "0.25015%"
+  },
+  {
+    "Rank": "103",
+    "Pokemon": "Lycanroc",
+    "Usage": "0.23925%"
+  },
+  {
+    "Rank": "104",
+    "Pokemon": "Gallade",
+    "Usage": "0.23140%"
+  },
+  {
+    "Rank": "105",
+    "Pokemon": "Greninja",
+    "Usage": "0.23000%"
+  },
+  {
+    "Rank": "106",
+    "Pokemon": "Braviary-Hisui",
+    "Usage": "0.21846%"
+  },
+  {
+    "Rank": "107",
+    "Pokemon": "Iron Valiant",
+    "Usage": "0.19441%"
+  },
+  {
+    "Rank": "108",
+    "Pokemon": "Uxie",
+    "Usage": "0.19074%"
+  },
+  {
+    "Rank": "109",
+    "Pokemon": "Moltres",
+    "Usage": "0.18912%"
+  },
+  {
+    "Rank": "110",
+    "Pokemon": "Tinkaton",
+    "Usage": "0.17419%"
+  },
+  {
+    "Rank": "111",
+    "Pokemon": "Salamence",
+    "Usage": "0.15761%"
+  },
+  {
+    "Rank": "112",
+    "Pokemon": "Rabsca",
+    "Usage": "0.15147%"
+  },
+  {
+    "Rank": "113",
+    "Pokemon": "Skeledirge",
+    "Usage": "0.15084%"
+  },
+  {
+    "Rank": "114",
+    "Pokemon": "Persian-Alola",
+    "Usage": "0.14897%"
+  },
+  {
+    "Rank": "115",
+    "Pokemon": "Azelf",
+    "Usage": "0.14736%"
+  },
+  {
+    "Rank": "116",
+    "Pokemon": "Iron Treads",
+    "Usage": "0.14449%"
+  },
+  {
+    "Rank": "117",
+    "Pokemon": "Toxicroak",
+    "Usage": "0.13847%"
+  },
+  {
+    "Rank": "118",
+    "Pokemon": "Avalugg-Hisui",
+    "Usage": "0.13614%"
+  },
+  {
+    "Rank": "119",
+    "Pokemon": "Hydreigon",
+    "Usage": "0.13576%"
+  },
+  {
+    "Rank": "120",
+    "Pokemon": "Qwilfish-Hisui",
+    "Usage": "0.13226%"
+  },
+  {
+    "Rank": "121",
+    "Pokemon": "Coalossal",
+    "Usage": "0.12640%"
+  },
+  {
+    "Rank": "122",
+    "Pokemon": "Hariyama",
+    "Usage": "0.12504%"
+  },
+  {
+    "Rank": "123",
+    "Pokemon": "Breloom",
+    "Usage": "0.12478%"
+  },
+  {
+    "Rank": "124",
+    "Pokemon": "Typhlosion",
+    "Usage": "0.12151%"
+  },
+  {
+    "Rank": "125",
+    "Pokemon": "Perrserker",
+    "Usage": "0.11305%"
+  },
+  {
+    "Rank": "126",
+    "Pokemon": "Rotom-Heat",
+    "Usage": "0.11251%"
+  },
+  {
+    "Rank": "127",
+    "Pokemon": "Slowking-Galar",
+    "Usage": "0.11105%"
+  },
+  {
+    "Rank": "128",
+    "Pokemon": "Lilligant",
+    "Usage": "0.10676%"
+  },
+  {
+    "Rank": "129",
+    "Pokemon": "Staraptor",
+    "Usage": "0.10307%"
+  },
+  {
+    "Rank": "130",
+    "Pokemon": "Drifblim",
+    "Usage": "0.10248%"
+  },
+  {
+    "Rank": "131",
+    "Pokemon": "Cetitan",
+    "Usage": "0.09736%"
+  },
+  {
+    "Rank": "132",
+    "Pokemon": "Arboliva",
+    "Usage": "0.09602%"
+  },
+  {
+    "Rank": "133",
+    "Pokemon": "Basculegion-F",
+    "Usage": "0.09413%"
+  },
+  {
+    "Rank": "134",
+    "Pokemon": "Electrode-Hisui",
+    "Usage": "0.09310%"
+  },
+  {
+    "Rank": "135",
+    "Pokemon": "Slowking",
+    "Usage": "0.09099%"
+  },
+  {
+    "Rank": "136",
+    "Pokemon": "Espathra",
+    "Usage": "0.08865%"
+  },
+  {
+    "Rank": "137",
+    "Pokemon": "Tauros-Paldea-Blaze",
+    "Usage": "0.08862%"
+  },
+  {
+    "Rank": "138",
+    "Pokemon": "Spiritomb",
+    "Usage": "0.08610%"
+  },
+  {
+    "Rank": "139",
+    "Pokemon": "Pachirisu",
+    "Usage": "0.08385%"
+  },
+  {
+    "Rank": "140",
+    "Pokemon": "Dachsbun",
+    "Usage": "0.08146%"
+  },
+  {
+    "Rank": "141",
+    "Pokemon": "Umbreon",
+    "Usage": "0.08133%"
+  },
+  {
+    "Rank": "142",
+    "Pokemon": "Noivern",
+    "Usage": "0.08060%"
+  },
+  {
+    "Rank": "143",
+    "Pokemon": "Kilowattrel",
+    "Usage": "0.07835%"
+  },
+  {
+    "Rank": "144",
+    "Pokemon": "Houndstone",
+    "Usage": "0.07800%"
+  },
+  {
+    "Rank": "145",
+    "Pokemon": "Slowbro",
+    "Usage": "0.07629%"
+  },
+  {
+    "Rank": "146",
+    "Pokemon": "Frosmoth",
+    "Usage": "0.07615%"
+  },
+  {
+    "Rank": "147",
+    "Pokemon": "Cinderace",
+    "Usage": "0.07588%"
+  },
+  {
+    "Rank": "148",
+    "Pokemon": "Rotom-Mow",
+    "Usage": "0.07174%"
+  },
+  {
+    "Rank": "149",
+    "Pokemon": "Flamigo",
+    "Usage": "0.07151%"
+  },
+  {
+    "Rank": "150",
+    "Pokemon": "Dudunsparce",
+    "Usage": "0.06784%"
+  },
+  {
+    "Rank": "151",
+    "Pokemon": "Vivillon",
+    "Usage": "0.06497%"
+  },
+  {
+    "Rank": "152",
+    "Pokemon": "Stantler",
+    "Usage": "0.06477%"
+  },
+  {
+    "Rank": "153",
+    "Pokemon": "Iron Thorns",
+    "Usage": "0.06447%"
+  },
+  {
+    "Rank": "154",
+    "Pokemon": "Mesprit",
+    "Usage": "0.06297%"
+  },
+  {
+    "Rank": "155",
+    "Pokemon": "Iron Jugulis",
+    "Usage": "0.06082%"
+  },
+  {
+    "Rank": "156",
+    "Pokemon": "Stonjourner",
+    "Usage": "0.05731%"
+  },
+  {
+    "Rank": "157",
+    "Pokemon": "Toxtricity",
+    "Usage": "0.05677%"
+  },
+  {
+    "Rank": "158",
+    "Pokemon": "Misdreavus",
+    "Usage": "0.05667%"
+  },
+  {
+    "Rank": "159",
+    "Pokemon": "Squawkabilly",
+    "Usage": "0.05568%"
+  },
+  {
+    "Rank": "160",
+    "Pokemon": "Slither Wing",
+    "Usage": "0.05502%"
+  },
+  {
+    "Rank": "161",
+    "Pokemon": "Gengar",
+    "Usage": "0.04880%"
+  },
+  {
+    "Rank": "162",
+    "Pokemon": "Slowpoke",
+    "Usage": "0.04844%"
+  },
+  {
+    "Rank": "163",
+    "Pokemon": "Toedscruel",
+    "Usage": "0.04514%"
+  },
+  {
+    "Rank": "164",
+    "Pokemon": "Delphox",
+    "Usage": "0.04391%"
+  },
+  {
+    "Rank": "165",
+    "Pokemon": "Salazzle",
+    "Usage": "0.04351%"
+  },
+  {
+    "Rank": "166",
+    "Pokemon": "Grafaiai",
+    "Usage": "0.04290%"
+  },
+  {
+    "Rank": "167",
+    "Pokemon": "Indeedee",
+    "Usage": "0.04275%"
+  },
+  {
+    "Rank": "168",
+    "Pokemon": "Eelektross",
+    "Usage": "0.04273%"
+  },
+  {
+    "Rank": "169",
+    "Pokemon": "Gardevoir",
+    "Usage": "0.04163%"
+  },
+  {
+    "Rank": "170",
+    "Pokemon": "Clodsire",
+    "Usage": "0.04085%"
+  },
+  {
+    "Rank": "171",
+    "Pokemon": "Hawlucha",
+    "Usage": "0.04027%"
+  },
+  {
+    "Rank": "172",
+    "Pokemon": "Magnezone",
+    "Usage": "0.03967%"
+  },
+  {
+    "Rank": "173",
+    "Pokemon": "Slowbro-Galar",
+    "Usage": "0.03762%"
+  },
+  {
+    "Rank": "174",
+    "Pokemon": "Inteleon",
+    "Usage": "0.03641%"
+  },
+  {
+    "Rank": "175",
+    "Pokemon": "Pikachu",
+    "Usage": "0.03519%"
+  },
+  {
+    "Rank": "176",
+    "Pokemon": "Decidueye",
+    "Usage": "0.03489%"
+  },
+  {
+    "Rank": "177",
+    "Pokemon": "Barraskewda",
+    "Usage": "0.03459%"
+  },
+  {
+    "Rank": "178",
+    "Pokemon": "Vaporeon",
+    "Usage": "0.03432%"
+  },
+  {
+    "Rank": "179",
+    "Pokemon": "Glaceon",
+    "Usage": "0.03409%"
+  },
+  {
+    "Rank": "180",
+    "Pokemon": "Pincurchin",
+    "Usage": "0.03274%"
+  },
+  {
+    "Rank": "181",
+    "Pokemon": "Mudsdale",
+    "Usage": "0.03116%"
+  },
+  {
+    "Rank": "182",
+    "Pokemon": "Carbink",
+    "Usage": "0.03079%"
+  },
+  {
+    "Rank": "183",
+    "Pokemon": "Lucario",
+    "Usage": "0.02943%"
+  },
+  {
+    "Rank": "184",
+    "Pokemon": "Toxapex",
+    "Usage": "0.02880%"
+  },
+  {
+    "Rank": "185",
+    "Pokemon": "Luxray",
+    "Usage": "0.02879%"
+  },
+  {
+    "Rank": "186",
+    "Pokemon": "Dragalge",
+    "Usage": "0.02841%"
+  },
+  {
+    "Rank": "187",
+    "Pokemon": "Ursaring",
+    "Usage": "0.02473%"
+  },
+  {
+    "Rank": "188",
+    "Pokemon": "Lurantis",
+    "Usage": "0.02434%"
+  },
+  {
+    "Rank": "189",
+    "Pokemon": "Ditto",
+    "Usage": "0.02410%"
+  },
+  {
+    "Rank": "190",
+    "Pokemon": "Hippowdon",
+    "Usage": "0.02303%"
+  },
+  {
+    "Rank": "191",
+    "Pokemon": "Clawitzer",
+    "Usage": "0.02213%"
+  },
+  {
+    "Rank": "192",
+    "Pokemon": "Tornadus-Therian",
+    "Usage": "0.02164%"
+  },
+  {
+    "Rank": "193",
+    "Pokemon": "Golduck",
+    "Usage": "0.02121%"
+  },
+  {
+    "Rank": "194",
+    "Pokemon": "Floatzel",
+    "Usage": "0.02055%"
+  },
+  {
+    "Rank": "195",
+    "Pokemon": "Appletun",
+    "Usage": "0.01990%"
+  },
+  {
+    "Rank": "196",
+    "Pokemon": "Quaquaval",
+    "Usage": "0.01967%"
+  },
+  {
+    "Rank": "197",
+    "Pokemon": "Bisharp",
+    "Usage": "0.01959%"
+  },
+  {
+    "Rank": "198",
+    "Pokemon": "Krookodile",
+    "Usage": "0.01942%"
+  },
+  {
+    "Rank": "199",
+    "Pokemon": "Crabominable",
+    "Usage": "0.01837%"
+  },
+  {
+    "Rank": "200",
+    "Pokemon": "Palossand",
+    "Usage": "0.01832%"
+  },
+  {
+    "Rank": "201",
+    "Pokemon": "Medicham",
+    "Usage": "0.01770%"
+  },
+  {
+    "Rank": "202",
+    "Pokemon": "Haxorus",
+    "Usage": "0.01735%"
+  },
+  {
+    "Rank": "203",
+    "Pokemon": "Chansey",
+    "Usage": "0.01723%"
+  },
+  {
+    "Rank": "204",
+    "Pokemon": "Beartic",
+    "Usage": "0.01720%"
+  },
+  {
+    "Rank": "205",
+    "Pokemon": "Lycanroc-Midnight",
+    "Usage": "0.01695%"
+  },
+  {
+    "Rank": "206",
+    "Pokemon": "Altaria",
+    "Usage": "0.01692%"
+  },
+  {
+    "Rank": "207",
+    "Pokemon": "Cyclizar",
+    "Usage": "0.01600%"
+  },
+  {
+    "Rank": "208",
+    "Pokemon": "Weavile",
+    "Usage": "0.01595%"
+  },
+  {
+    "Rank": "209",
+    "Pokemon": "Goodra",
+    "Usage": "0.01528%"
+  },
+  {
+    "Rank": "210",
+    "Pokemon": "Scovillain",
+    "Usage": "0.01464%"
+  },
+  {
+    "Rank": "211",
+    "Pokemon": "Scyther",
+    "Usage": "0.01410%"
+  },
+  {
+    "Rank": "212",
+    "Pokemon": "Florges",
+    "Usage": "0.01313%"
+  },
+  {
+    "Rank": "213",
+    "Pokemon": "Froslass",
+    "Usage": "0.01308%"
+  },
+  {
+    "Rank": "214",
+    "Pokemon": "Blissey",
+    "Usage": "0.01276%"
+  },
+  {
+    "Rank": "215",
+    "Pokemon": "Jolteon",
+    "Usage": "0.01244%"
+  },
+  {
+    "Rank": "216",
+    "Pokemon": "Leafeon",
+    "Usage": "0.01238%"
+  },
+  {
+    "Rank": "217",
+    "Pokemon": "Bombirdier",
+    "Usage": "0.01220%"
+  },
+  {
+    "Rank": "218",
+    "Pokemon": "Revavroom",
+    "Usage": "0.01187%"
+  },
+  {
+    "Rank": "219",
+    "Pokemon": "Avalugg",
+    "Usage": "0.01139%"
+  },
+  {
+    "Rank": "220",
+    "Pokemon": "Oricorio-Sensu",
+    "Usage": "0.01078%"
+  },
+  {
+    "Rank": "221",
+    "Pokemon": "Lokix",
+    "Usage": "0.01052%"
+  },
+  {
+    "Rank": "222",
+    "Pokemon": "Oricorio-Pom-Pom",
+    "Usage": "0.01052%"
+  },
+  {
+    "Rank": "223",
+    "Pokemon": "Haunter",
+    "Usage": "0.01030%"
+  },
+  {
+    "Rank": "224",
+    "Pokemon": "Lycanroc-Dusk",
+    "Usage": "0.01024%"
+  },
+  {
+    "Rank": "225",
+    "Pokemon": "Basculin",
+    "Usage": "0.01019%"
+  },
+  {
+    "Rank": "226",
+    "Pokemon": "Espeon",
+    "Usage": "0.00962%"
+  },
+  {
+    "Rank": "227",
+    "Pokemon": "Raichu-Alola",
+    "Usage": "0.00960%"
+  },
+  {
+    "Rank": "228",
+    "Pokemon": "Forretress",
+    "Usage": "0.00914%"
+  },
+  {
+    "Rank": "229",
+    "Pokemon": "Heracross",
+    "Usage": "0.00896%"
+  },
+  {
+    "Rank": "230",
+    "Pokemon": "Masquerain",
+    "Usage": "0.00862%"
+  },
+  {
+    "Rank": "231",
+    "Pokemon": "Camerupt",
+    "Usage": "0.00782%"
+  },
+  {
+    "Rank": "232",
+    "Pokemon": "Samurott",
+    "Usage": "0.00776%"
+  },
+  {
+    "Rank": "233",
+    "Pokemon": "Rotom-Frost",
+    "Usage": "0.00774%"
+  },
+  {
+    "Rank": "234",
+    "Pokemon": "Cloyster",
+    "Usage": "0.00772%"
+  },
+  {
+    "Rank": "235",
+    "Pokemon": "Gothorita",
+    "Usage": "0.00768%"
+  },
+  {
+    "Rank": "236",
+    "Pokemon": "Glalie",
+    "Usage": "0.00761%"
+  },
+  {
+    "Rank": "237",
+    "Pokemon": "Muk",
+    "Usage": "0.00760%"
+  },
+  {
+    "Rank": "238",
+    "Pokemon": "Primeape",
+    "Usage": "0.00756%"
+  },
+  {
+    "Rank": "239",
+    "Pokemon": "Mismagius",
+    "Usage": "0.00749%"
+  },
+  {
+    "Rank": "240",
+    "Pokemon": "Electrode",
+    "Usage": "0.00733%"
+  },
+  {
+    "Rank": "241",
+    "Pokemon": "Foongus",
+    "Usage": "0.00715%"
+  },
+  {
+    "Rank": "242",
+    "Pokemon": "Ampharos",
+    "Usage": "0.00714%"
+  },
+  {
+    "Rank": "243",
+    "Pokemon": "Wigglytuff",
+    "Usage": "0.00678%"
+  },
+  {
+    "Rank": "244",
+    "Pokemon": "Braviary",
+    "Usage": "0.00651%"
+  },
+  {
+    "Rank": "245",
+    "Pokemon": "Lumineon",
+    "Usage": "0.00646%"
+  },
+  {
+    "Rank": "246",
+    "Pokemon": "Slaking",
+    "Usage": "0.00640%"
+  },
+  {
+    "Rank": "247",
+    "Pokemon": "Eiscue",
+    "Usage": "0.00558%"
+  },
+  {
+    "Rank": "248",
+    "Pokemon": "Naclstack",
+    "Usage": "0.00550%"
+  },
+  {
+    "Rank": "249",
+    "Pokemon": "Quagsire",
+    "Usage": "0.00549%"
+  },
+  {
+    "Rank": "250",
+    "Pokemon": "Grumpig",
+    "Usage": "0.00544%"
+  },
+  {
+    "Rank": "251",
+    "Pokemon": "Jigglypuff",
+    "Usage": "0.00541%"
+  },
+  {
+    "Rank": "252",
+    "Pokemon": "Copperajah",
+    "Usage": "0.00531%"
+  },
+  {
+    "Rank": "253",
+    "Pokemon": "Flareon",
+    "Usage": "0.00512%"
+  },
+  {
+    "Rank": "254",
+    "Pokemon": "Mabosstiff",
+    "Usage": "0.00493%"
+  },
+  {
+    "Rank": "255",
+    "Pokemon": "Vespiquen",
+    "Usage": "0.00473%"
+  },
+  {
+    "Rank": "256",
+    "Pokemon": "Skuntank",
+    "Usage": "0.00467%"
+  },
+  {
+    "Rank": "257",
+    "Pokemon": "Greedent",
+    "Usage": "0.00460%"
+  },
+  {
+    "Rank": "258",
+    "Pokemon": "Flapple",
+    "Usage": "0.00449%"
+  },
+  {
+    "Rank": "259",
+    "Pokemon": "Pyroar",
+    "Usage": "0.00417%"
+  },
+  {
+    "Rank": "260",
+    "Pokemon": "Magneton",
+    "Usage": "0.00409%"
+  },
+  {
+    "Rank": "261",
+    "Pokemon": "Spewpa",
+    "Usage": "0.00373%"
+  },
+  {
+    "Rank": "262",
+    "Pokemon": "Slowpoke-Galar",
+    "Usage": "0.00369%"
+  },
+  {
+    "Rank": "263",
+    "Pokemon": "Tarountula",
+    "Usage": "0.00343%"
+  },
+  {
+    "Rank": "264",
+    "Pokemon": "Houndoom",
+    "Usage": "0.00332%"
+  },
+  {
+    "Rank": "265",
+    "Pokemon": "Tropius",
+    "Usage": "0.00322%"
+  },
+  {
+    "Rank": "266",
+    "Pokemon": "Polteageist",
+    "Usage": "0.00284%"
+  },
+  {
+    "Rank": "267",
+    "Pokemon": "Hypno",
+    "Usage": "0.00279%"
+  },
+  {
+    "Rank": "268",
+    "Pokemon": "Passimian",
+    "Usage": "0.00267%"
+  },
+  {
+    "Rank": "269",
+    "Pokemon": "Honchkrow",
+    "Usage": "0.00266%"
+  },
+  {
+    "Rank": "270",
+    "Pokemon": "Gogoat",
+    "Usage": "0.00262%"
+  },
+  {
+    "Rank": "271",
+    "Pokemon": "Bramblin",
+    "Usage": "0.00248%"
+  },
+  {
+    "Rank": "272",
+    "Pokemon": "Zoroark",
+    "Usage": "0.00227%"
+  },
+  {
+    "Rank": "273",
+    "Pokemon": "Zorua-Hisui",
+    "Usage": "0.00224%"
+  },
+  {
+    "Rank": "274",
+    "Pokemon": "Cacturne",
+    "Usage": "0.00215%"
+  },
+  {
+    "Rank": "275",
+    "Pokemon": "Dugtrio",
+    "Usage": "0.00207%"
+  },
+  {
+    "Rank": "276",
+    "Pokemon": "Rotom-Fan",
+    "Usage": "0.00207%"
+  },
+  {
+    "Rank": "277",
+    "Pokemon": "Delibird",
+    "Usage": "0.00205%"
+  },
+  {
+    "Rank": "278",
+    "Pokemon": "Sneasel",
+    "Usage": "0.00202%"
+  },
+  {
+    "Rank": "279",
+    "Pokemon": "Dedenne",
+    "Usage": "0.00199%"
+  },
+  {
+    "Rank": "280",
+    "Pokemon": "Spidops",
+    "Usage": "0.00191%"
+  },
+  {
+    "Rank": "281",
+    "Pokemon": "Venomoth",
+    "Usage": "0.00183%"
+  },
+  {
+    "Rank": "282",
+    "Pokemon": "Sliggoo-Hisui",
+    "Usage": "0.00165%"
+  },
+  {
+    "Rank": "283",
+    "Pokemon": "Sawsbuck",
+    "Usage": "0.00165%"
+  },
+  {
+    "Rank": "284",
+    "Pokemon": "Finizen",
+    "Usage": "0.00153%"
+  },
+  {
+    "Rank": "285",
+    "Pokemon": "Dunsparce",
+    "Usage": "0.00146%"
+  },
+  {
+    "Rank": "286",
+    "Pokemon": "Lechonk",
+    "Usage": "0.00142%"
+  },
+  {
+    "Rank": "287",
+    "Pokemon": "Cryogonal",
+    "Usage": "0.00135%"
+  },
+  {
+    "Rank": "288",
+    "Pokemon": "Riolu",
+    "Usage": "0.00127%"
+  },
+  {
+    "Rank": "289",
+    "Pokemon": "Qwilfish",
+    "Usage": "0.00125%"
+  },
+  {
+    "Rank": "290",
+    "Pokemon": "Oshawott",
+    "Usage": "0.00124%"
+  },
+  {
+    "Rank": "291",
+    "Pokemon": "Tinkatuff",
+    "Usage": "0.00118%"
+  },
+  {
+    "Rank": "292",
+    "Pokemon": "Snover",
+    "Usage": "0.00117%"
+  },
+  {
+    "Rank": "293",
+    "Pokemon": "Alomomola",
+    "Usage": "0.00115%"
+  },
+  {
+    "Rank": "294",
+    "Pokemon": "Sneasel-Hisui",
+    "Usage": "0.00110%"
+  },
+  {
+    "Rank": "295",
+    "Pokemon": "Klawf",
+    "Usage": "0.00108%"
+  },
+  {
+    "Rank": "296",
+    "Pokemon": "Igglybuff",
+    "Usage": "0.00102%"
+  },
+  {
+    "Rank": "297",
+    "Pokemon": "Tauros",
+    "Usage": "0.00101%"
+  },
+  {
+    "Rank": "298",
+    "Pokemon": "Venonat",
+    "Usage": "0.00100%"
+  },
+  {
+    "Rank": "299",
+    "Pokemon": "Gothita",
+    "Usage": "0.00098%"
+  },
+  {
+    "Rank": "300",
+    "Pokemon": "Sunflora",
+    "Usage": "0.00095%"
+  },
+  {
+    "Rank": "301",
+    "Pokemon": "Sandaconda",
+    "Usage": "0.00093%"
+  },
+  {
+    "Rank": "302",
+    "Pokemon": "Bronzor",
+    "Usage": "0.00092%"
+  },
+  {
+    "Rank": "303",
+    "Pokemon": "Wugtrio",
+    "Usage": "0.00092%"
+  },
+  {
+    "Rank": "304",
+    "Pokemon": "Eevee",
+    "Usage": "0.00087%"
+  },
+  {
+    "Rank": "305",
+    "Pokemon": "Toedscool",
+    "Usage": "0.00081%"
+  },
+  {
+    "Rank": "306",
+    "Pokemon": "Dugtrio-Alola",
+    "Usage": "0.00079%"
+  },
+  {
+    "Rank": "307",
+    "Pokemon": "Eelektrik",
+    "Usage": "0.00075%"
+  },
+  {
+    "Rank": "308",
+    "Pokemon": "Hippopotas",
+    "Usage": "0.00073%"
+  },
+  {
+    "Rank": "309",
+    "Pokemon": "Whiscash",
+    "Usage": "0.00070%"
+  },
+  {
+    "Rank": "310",
+    "Pokemon": "Pichu",
+    "Usage": "0.00070%"
+  },
+  {
+    "Rank": "311",
+    "Pokemon": "Shellder",
+    "Usage": "0.00062%"
+  },
+  {
+    "Rank": "312",
+    "Pokemon": "Zangoose",
+    "Usage": "0.00061%"
+  },
+  {
+    "Rank": "313",
+    "Pokemon": "Persian",
+    "Usage": "0.00058%"
+  },
+  {
+    "Rank": "314",
+    "Pokemon": "Seviper",
+    "Usage": "0.00050%"
+  },
+  {
+    "Rank": "315",
+    "Pokemon": "Morgrem",
+    "Usage": "0.00049%"
+  },
+  {
+    "Rank": "316",
+    "Pokemon": "Fletchling",
+    "Usage": "0.00046%"
+  },
+  {
+    "Rank": "317",
+    "Pokemon": "Swalot",
+    "Usage": "0.00045%"
+  },
+  {
+    "Rank": "318",
+    "Pokemon": "Banette",
+    "Usage": "0.00045%"
+  },
+  {
+    "Rank": "319",
+    "Pokemon": "Kubfu",
+    "Usage": "0.00044%"
+  },
+  {
+    "Rank": "320",
+    "Pokemon": "Vigoroth",
+    "Usage": "0.00041%"
+  },
+  {
+    "Rank": "321",
+    "Pokemon": "Kricketot",
+    "Usage": "0.00040%"
+  },
+  {
+    "Rank": "322",
+    "Pokemon": "Magikarp",
+    "Usage": "0.00039%"
+  },
+  {
+    "Rank": "323",
+    "Pokemon": "Braixen",
+    "Usage": "0.00033%"
+  },
+  {
+    "Rank": "324",
+    "Pokemon": "Donphan",
+    "Usage": "0.00032%"
+  },
+  {
+    "Rank": "325",
+    "Pokemon": "Girafarig",
+    "Usage": "0.00030%"
+  },
+  {
+    "Rank": "326",
+    "Pokemon": "Tauros-Paldea-Combat",
+    "Usage": "0.00030%"
+  },
+  {
+    "Rank": "327",
+    "Pokemon": "Drowzee",
+    "Usage": "0.00030%"
+  },
+  {
+    "Rank": "328",
+    "Pokemon": "Marill",
+    "Usage": "0.00029%"
+  },
+  {
+    "Rank": "329",
+    "Pokemon": "Falinks",
+    "Usage": "0.00028%"
+  },
+  {
+    "Rank": "330",
+    "Pokemon": "Cyndaquil",
+    "Usage": "0.00028%"
+  },
+  {
+    "Rank": "331",
+    "Pokemon": "Veluza",
+    "Usage": "0.00028%"
+  },
+  {
+    "Rank": "332",
+    "Pokemon": "Sudowoodo",
+    "Usage": "0.00026%"
+  },
+  {
+    "Rank": "333",
+    "Pokemon": "Kricketune",
+    "Usage": "0.00023%"
+  },
+  {
+    "Rank": "334",
+    "Pokemon": "Oricorio",
+    "Usage": "0.00022%"
+  },
+  {
+    "Rank": "335",
+    "Pokemon": "Oinkologne-F",
+    "Usage": "0.00022%"
+  },
+  {
+    "Rank": "336",
+    "Pokemon": "Hattrem",
+    "Usage": "0.00021%"
+  },
+  {
+    "Rank": "337",
+    "Pokemon": "Cetoddle",
+    "Usage": "0.00021%"
+  },
+  {
+    "Rank": "338",
+    "Pokemon": "Phanpy",
+    "Usage": "0.00021%"
+  },
+  {
+    "Rank": "339",
+    "Pokemon": "Growlithe-Hisui",
+    "Usage": "0.00019%"
+  },
+  {
+    "Rank": "340",
+    "Pokemon": "Voltorb-Hisui",
+    "Usage": "0.00018%"
+  },
+  {
+    "Rank": "341",
+    "Pokemon": "Komala",
+    "Usage": "0.00017%"
+  },
+  {
+    "Rank": "342",
+    "Pokemon": "Teddiursa",
+    "Usage": "0.00015%"
+  },
+  {
+    "Rank": "343",
+    "Pokemon": "Dartrix",
+    "Usage": "0.00013%"
+  },
+  {
+    "Rank": "344",
+    "Pokemon": "Fuecoco",
+    "Usage": "0.00012%"
+  },
+  {
+    "Rank": "345",
+    "Pokemon": "Greavard",
+    "Usage": "0.00012%"
+  },
+  {
+    "Rank": "346",
+    "Pokemon": "Quilava",
+    "Usage": "0.00011%"
+  },
+  {
+    "Rank": "347",
+    "Pokemon": "Rotom",
+    "Usage": "0.00009%"
+  },
+  {
+    "Rank": "348",
+    "Pokemon": "Wooper",
+    "Usage": "0.00009%"
+  },
+  {
+    "Rank": "349",
+    "Pokemon": "Flaaffy",
+    "Usage": "0.00008%"
+  },
+  {
+    "Rank": "350",
+    "Pokemon": "Psyduck",
+    "Usage": "0.00008%"
+  },
+  {
+    "Rank": "351",
+    "Pokemon": "Pawmi",
+    "Usage": "0.00008%"
+  },
+  {
+    "Rank": "352",
+    "Pokemon": "Crocalor",
+    "Usage": "0.00007%"
+  },
+  {
+    "Rank": "353",
+    "Pokemon": "Meowth-Galar",
+    "Usage": "0.00006%"
+  },
+  {
+    "Rank": "354",
+    "Pokemon": "Magnemite",
+    "Usage": "0.00006%"
+  },
+  {
+    "Rank": "355",
+    "Pokemon": "Numel",
+    "Usage": "0.00006%"
+  },
+  {
+    "Rank": "356",
+    "Pokemon": "Impidimp",
+    "Usage": "0.00006%"
+  },
+  {
+    "Rank": "357",
+    "Pokemon": "Zorua",
+    "Usage": "0.00005%"
+  },
+  {
+    "Rank": "358",
+    "Pokemon": "Dewott",
+    "Usage": "0.00005%"
+  },
+  {
+    "Rank": "359",
+    "Pokemon": "Oinkologne",
+    "Usage": "0.00003%"
+  },
+  {
+    "Rank": "360",
+    "Pokemon": "Sunkern",
+    "Usage": "0.00003%"
+  },
+  {
+    "Rank": "361",
+    "Pokemon": "Bonsly",
+    "Usage": "0.00003%"
+  },
+  {
+    "Rank": "362",
+    "Pokemon": "Sinistea",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "363",
+    "Pokemon": "Floette",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "364",
+    "Pokemon": "Sprigatito",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "365",
+    "Pokemon": "Drifloon",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "366",
+    "Pokemon": "Nymble",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "367",
+    "Pokemon": "Tinkatink",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "368",
+    "Pokemon": "Krokorok",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "369",
+    "Pokemon": "Croagunk",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "370",
+    "Pokemon": "Salandit",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "371",
+    "Pokemon": "Hoppip",
+    "Usage": "0.00002%"
+  },
+  {
+    "Rank": "372",
+    "Pokemon": "Zweilous",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "373",
+    "Pokemon": "Fletchinder",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "374",
+    "Pokemon": "Frogadier",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "375",
+    "Pokemon": "Azurill",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "376",
+    "Pokemon": "Charmander",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "377",
+    "Pokemon": "Drakloak",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "378",
+    "Pokemon": "Snorunt",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "379",
+    "Pokemon": "Thwackey",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "380",
+    "Pokemon": "Happiny",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "381",
+    "Pokemon": "Dratini",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "382",
+    "Pokemon": "Quaxly",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "383",
+    "Pokemon": "Raboot",
+    "Usage": "0.00001%"
+  },
+  {
+    "Rank": "384",
+    "Pokemon": "Cacnea",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "385",
+    "Pokemon": "Oricorio-Pa'u",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "386",
+    "Pokemon": "Starly",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "387",
+    "Pokemon": "Toxel",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "388",
+    "Pokemon": "Shelgon",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "389",
+    "Pokemon": "Quilladin",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "390",
+    "Pokemon": "Voltorb",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "391",
+    "Pokemon": "Spoink",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "392",
+    "Pokemon": "Gimmighoul",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "393",
+    "Pokemon": "Fraxure",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "394",
+    "Pokemon": "Carkol",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "395",
+    "Pokemon": "Shuppet",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "396",
+    "Pokemon": "Gumshoos",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "397",
+    "Pokemon": "Swablu",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "398",
+    "Pokemon": "Rowlet",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "399",
+    "Pokemon": "Varoom",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "400",
+    "Pokemon": "Finneon",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "401",
+    "Pokemon": "Mudbray",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "402",
+    "Pokemon": "Shellos",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "403",
+    "Pokemon": "Meowth",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "404",
+    "Pokemon": "Gulpin",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "405",
+    "Pokemon": "Meditite",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "406",
+    "Pokemon": "Luvdisc",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "407",
+    "Pokemon": "Chespin",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "408",
+    "Pokemon": "Surskit",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "409",
+    "Pokemon": "Pupitar",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "410",
+    "Pokemon": "Maschiff",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "411",
+    "Pokemon": "Dragonair",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "412",
+    "Pokemon": "Wingull",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "413",
+    "Pokemon": "Mareanie",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "414",
+    "Pokemon": "Chewtle",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "415",
+    "Pokemon": "Tandemaus",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "416",
+    "Pokemon": "Cufant",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "417",
+    "Pokemon": "Sobble",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "418",
+    "Pokemon": "Wattrel",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "419",
+    "Pokemon": "Glimmet",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "420",
+    "Pokemon": "Wooper-Paldea",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "421",
+    "Pokemon": "Rellor",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "422",
+    "Pokemon": "Rolycoly",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "423",
+    "Pokemon": "Sliggoo",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "424",
+    "Pokemon": "Kirlia",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "425",
+    "Pokemon": "Skiploom",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "426",
+    "Pokemon": "Tynamo",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "427",
+    "Pokemon": "Charmeleon",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "428",
+    "Pokemon": "Gabite",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "429",
+    "Pokemon": "Floragato",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "430",
+    "Pokemon": "Shroodle",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "431",
+    "Pokemon": "Scatterbug",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "432",
+    "Pokemon": "Quaxwell",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "433",
+    "Pokemon": "Cubchoo",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "434",
+    "Pokemon": "Ralts",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "435",
+    "Pokemon": "Sandygast",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "436",
+    "Pokemon": "Dolliv",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "437",
+    "Pokemon": "Larvitar",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "438",
+    "Pokemon": "Wiglett",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "439",
+    "Pokemon": "Snom",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "440",
+    "Pokemon": "Litleo",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "441",
+    "Pokemon": "Fidough",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "442",
+    "Pokemon": "Grookey",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "443",
+    "Pokemon": "Silicobra",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "444",
+    "Pokemon": "Bergmite",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "445",
+    "Pokemon": "Mankey",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "446",
+    "Pokemon": "Makuhita",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "447",
+    "Pokemon": "Larvesta",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "448",
+    "Pokemon": "Gimmighoul-Roaming",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "449",
+    "Pokemon": "Mareep",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "450",
+    "Pokemon": "Clauncher",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "451",
+    "Pokemon": "Barboach",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "452",
+    "Pokemon": "Pawniard",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "453",
+    "Pokemon": "Arctibax",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "454",
+    "Pokemon": "Axew",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "455",
+    "Pokemon": "Shroomish",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "456",
+    "Pokemon": "Buizel",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "457",
+    "Pokemon": "Gastly",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "458",
+    "Pokemon": "Pawmo",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "459",
+    "Pokemon": "Growlithe",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "460",
+    "Pokemon": "Diglett",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "461",
+    "Pokemon": "Flittle",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "462",
+    "Pokemon": "Nacli",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "463",
+    "Pokemon": "Deerling",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "464",
+    "Pokemon": "Houndour",
+    "Usage": "0.00000%"
+  },
+  {
+    "Rank": "465",
+    "Pokemon": "Scorbunny",
+    "Usage": "0.00000%"
+  }
+]
