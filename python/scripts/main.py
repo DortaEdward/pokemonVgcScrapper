@@ -2,12 +2,18 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from os import path, getcwd
-
 import json
 
-def txt_to_json(txt_file_path):
+url = "https://www.smogon.com/stats/"
+cd = path.dirname(path.abspath(__file__))
+data_folder = path.join(cd,"../data") 
+
+def moveset_to_json(file_path):
+    pass
+    - [ ] 
+def usage_to_json(file_path):
     table_data = []
-    with open(txt_file_path, 'r') as file:
+    with open(file_path, 'r') as file:
         for _ in range(5):
             next(file)
 
@@ -26,20 +32,18 @@ def txt_to_json(txt_file_path):
             table_data.append(row_data)
     return table_data
 
-url = "https://www.smogon.com/stats/"
-data_folder = path.join(getcwd(),"data")
-
 def getUsages(extension):
         file_path = get_formats(extension)
         file_path_url = "{}/{}/{}".format(url, extension, file_path[-1])
         table = get_table(file_path_url)
-        data_path = path.join(data_folder,file_path[-1])
-        create_file(table,data_path)
+        file_destination = path.join(data_folder,file_path[-1])
+        create_file(table,file_destination)
         if table:
-            table_data = txt_to_json(data_path)
+            table_data = usage_to_json(file_destination)
             json_data = json.dumps(table_data, indent=2)
-            create_file(table,path.join(data_folder,file_path[-1]))
-            with open(path.join(getcwd(),f"data/data.json"),'w') as f:
+            create_file(table,path.join(data_folder,f'usages/{file_path[-1]}'))
+            file_path[-1] = file_path[-1].replace('txt','json')
+            with open(path.join(data_folder,f'usages/{file_path[-1]}'),'w') as f:
                 f.write(json_data)
                 f.close()
 
@@ -88,10 +92,14 @@ def print_els(arr):
         print(el)
 
 def getMovesets(extension):
-    file_path = get_formats(extension)
-    file_path_url = "{}/{}/{}/{}".format(url,extension,"moveset", file_path[-1])
-    table = get_table(file_path_url)
-    print(table)
+    smogon_file = get_formats(extension)
+    smogon_url = "{}/{}/{}/{}".format(url,extension,"moveset", smogon_file[-1])
+    file_path = path.join(getcwd(),"../data/{}".format("moveset/"+smogon_file[-1]))
+    table = get_table(smogon_url)
+    with open(file_path,'w') as f:
+        f.write(table)
+        f.close()
+    
 
 
 def main():
@@ -122,57 +130,3 @@ https://www.smogon.com/stats/2023-06/metagame/gen9vgc2023regulationd-1760.txt
 https://www.smogon.com/stats/2023-06/leads/gen9vgc2023regulationd-1760.txt
 https://www.smogon.com/stats/2023-06/gen9vgc2023regulationd-1760.txt
 """
-
-'''
- +----------------------------------------+
- | Basculin                               |
- +----------------------------------------+
- | Raw count: 514                         |
- | Avg. weight: 0.00188765971474          |
- | Viability Ceiling: 73                  |
- +----------------------------------------+
- | Abilities                              |
- | Adaptability 82.204%                   |
- | Mold Breaker 16.776%                   |
- | Rock Head  0.968%                      |
- | Rattled  0.051%                        |
- | Reckless  0.001%                       |
- +----------------------------------------+
- | Items                                  |
- | Eviolite 99.316%                       |
- | Other  0.684%                          |
- +----------------------------------------+
- | Spreads                                |
- | Adamant:252/252/0/0/0/4 64.281%        |
- | Lax:0/4/252/0/0/252 16.776%            |
- | Jolly:76/220/4/0/4/204 13.952%         |
- | Other  4.991%                          |
- +----------------------------------------+
- | Moves                                  |
- | Protect 95.592%                        |
- | Last Respects 81.718%                  |
- | Wave Crash 69.272%                     |
- | Zen Headbutt 64.281%                   |
- | Icy Wind 30.780%                       |
- | Aqua Jet 21.272%                       |
- | Soak 16.776%                           |
- | Liquidation 13.952%                    |
- | Other  6.358%                          |
- +----------------------------------------+
- | Teammates                              |
- | Sneasler 65.619%                       |
- | Thundurus 65.619%                      |
- | Chesnaught 62.386%                     |
- | Flutter Mane 62.334%                   |
- | Heatran 62.334%                        |
- | Regieleki 17.312%                      |
- | Amoonguss 10.323%                      |
- | Tornadus  9.483%                       |
- | Rillaboom  9.483%                      |
- | Chi-Yu  9.483%                         |
- | Zapdos-Galar  8.307%                   |
- +----------------------------------------+
- | Checks and Counters                    |
- +----------------------------------------+
-
-'''
