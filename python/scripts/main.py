@@ -6,7 +6,7 @@ import json
 
 url = "https://www.smogon.com/stats/"
 cd = path.dirname(path.abspath(__file__))
-data_folder = path.join(cd,"../data") 
+data_folder = path.join(cd,"python/data") 
 
 def moveset_to_json(file_path):
     pass
@@ -94,14 +94,12 @@ def print_els(arr):
 def getMovesets(extension):
     smogon_file = get_formats(extension)
     smogon_url = "{}/{}/{}/{}".format(url,extension,"moveset", smogon_file[-1])
-    file_path = path.join(getcwd(),"../data/{}".format("moveset/"+smogon_file[-1]))
+    file_path = path.join(getcwd(),"python/data/{}".format("moveset/"+smogon_file[-1]))
     table = get_table(smogon_url)
     with open(file_path,'w') as f:
         f.write(table)
         f.close()
     
-
-
 def main():
     htmlRes = getReq(url)
     links = []
