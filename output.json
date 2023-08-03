@@ -1,378 +1,81 @@
 {
     "Flutter Mane": {
-        "Abilities": [
-            "Protosynthesis",
+        "Abilities Protosynthesis": [
             "100.000%"
         ],
-        "Items": [
-            "Choice",
-            "Specs",
-            "42.672%",
-            "Booster",
-            "Energy",
-            "37.237%",
-            "Pixie",
-            "Plate",
-            "12.532%",
-            "Focus",
-            "Sash",
-            "5.509%",
-            "Other",
-            "2.049%"
+        "Items Choice": [
+            "Specs"
         ],
-        "Spreads": [
-            "Modest:116/0/204/36/4/148",
-            "4.987%",
-            "Timid:4/0/0/252/0/252",
-            "4.375%",
-            "Timid:0/0/0/252/4/252",
-            "3.336%",
-            "Timid:124/0/228/116/4/36",
-            "3.201%",
-            "Timid:188/0/132/116/4/68",
-            "2.908%",
-            "Modest:4/0/0/252/0/252",
-            "2.777%",
-            "Other",
-            "78.415%"
+        "Spreads Modest:116/0/204/36/4/148": [
+            "4.987%"
         ],
-        "Moves": [
-            "Shadow",
-            "Ball",
-            "91.415%",
-            "Dazzling",
-            "Gleam",
-            "90.886%",
-            "Moonblast",
-            "87.855%",
-            "Protect",
-            "52.738%",
-            "Thunderbolt",
-            "27.512%",
-            "Substitute",
-            "13.297%",
-            "Trick",
-            "Room",
-            "8.525%",
-            "Icy",
-            "Wind",
-            "8.435%",
-            "Other",
-            "19.336%"
+        "Moves Shadow": [
+            "Ball"
         ],
-        "Teammates": [
-            "Urshifu-Rapid-Strike",
-            "40.443%",
-            "Heatran",
-            "32.586%",
-            "Iron",
-            "Hands",
-            "31.853%",
-            "Amoonguss",
-            "31.528%",
-            "Tornadus",
-            "27.739%",
-            "Chien-Pao",
-            "25.880%",
-            "Chi-Yu",
-            "23.322%",
-            "Landorus-Therian",
-            "21.868%",
-            "Cresselia",
-            "21.196%",
-            "Rillaboom",
-            "19.951%",
-            "Dragonite",
-            "17.127%"
+        "Teammates Urshifu-Rapid-Strike": [
+            "40.443%"
         ],
-        "Checks": [
-            "and",
+        "Checks and": [
             "Counters"
         ]
     },
     "Urshifu-Rapid-Strike": {
-        "Abilities": [
-            "Unseen",
-            "Fist",
-            "100.000%"
+        "Abilities Unseen": [
+            "Fist"
         ],
-        "Items": [
-            "Choice",
-            "Scarf",
-            "34.430%",
-            "Mystic",
-            "Water",
-            "31.319%",
-            "Focus",
-            "Sash",
-            "15.893%",
-            "Safety",
-            "Goggles",
-            "8.473%",
-            "Splash",
-            "Plate",
-            "2.760%",
-            "Choice",
-            "Band",
-            "2.411%",
-            "Other",
-            "4.715%"
+        "Items Choice": [
+            "Scarf"
         ],
-        "Spreads": [
-            "Jolly:0/252/0/0/4/252",
-            "14.524%",
-            "Jolly:4/252/0/0/0/252",
-            "6.655%",
-            "Adamant:0/252/0/0/4/252",
-            "5.964%",
-            "Adamant:4/252/0/0/0/252",
-            "5.897%",
-            "Adamant:60/156/4/0/108/180",
-            "2.817%",
-            "Adamant:0/252/4/0/0/252",
-            "2.104%",
-            "Other",
-            "62.040%"
+        "Spreads Jolly:0/252/0/0/4/252": [
+            "14.524%"
         ],
-        "Moves": [
-            "Surging",
-            "Strikes",
-            "99.996%",
-            "Close",
-            "Combat",
-            "96.522%",
-            "Aqua",
-            "Jet",
-            "84.529%",
-            "Protect",
-            "35.847%",
-            "U-turn",
-            "33.029%",
-            "Detect",
-            "26.014%",
-            "Ice",
-            "Spinner",
-            "6.834%",
-            "Other",
-            "17.227%"
+        "Moves Surging": [
+            "Strikes"
         ],
-        "Teammates": [
-            "Flutter",
-            "Mane",
-            "57.818%",
-            "Chien-Pao",
-            "37.124%",
-            "Tornadus",
-            "36.630%",
-            "Rillaboom",
-            "34.481%",
-            "Heatran",
-            "33.672%",
-            "Amoonguss",
-            "29.458%",
-            "Gholdengo",
-            "26.790%",
-            "Landorus-Therian",
-            "23.970%",
-            "Cresselia",
-            "20.187%",
-            "Dragonite",
-            "19.435%",
-            "Iron",
-            "Hands",
-            "19.151%"
+        "Teammates Flutter": [
+            "Mane"
         ],
-        "Checks": [
-            "and",
+        "Checks and": [
             "Counters"
         ]
     },
     "Amoonguss": {
-        "Abilities": [
-            "Regenerator",
-            "98.410%",
-            "Effect",
-            "Spore",
-            "1.590%"
+        "Abilities Regenerator": [
+            "98.410%"
         ],
-        "Items": [
-            "Rocky",
-            "Helmet",
-            "83.051%",
-            "Sitrus",
-            "Berry",
-            "9.431%",
-            "Mental",
-            "Herb",
-            "5.113%",
-            "Other",
-            "2.405%"
+        "Items Rocky": [
+            "Helmet"
         ],
-        "Spreads": [
-            "Bold:236/0/156/0/116/0",
-            "9.969%",
-            "Bold:236/0/204/4/36/28",
-            "6.471%",
-            "Bold:244/0/156/0/108/0",
-            "5.680%",
-            "Bold:252/0/172/4/52/28",
-            "5.255%",
-            "Bold:236/0/172/0/100/0",
-            "4.275%",
-            "Bold:236/0/180/4/68/20",
-            "3.697%",
-            "Other",
-            "64.653%"
+        "Spreads Bold:236/0/156/0/116/0": [
+            "9.969%"
         ],
-        "Moves": [
-            "Spore",
-            "99.897%",
-            "Rage",
-            "Powder",
-            "99.573%",
-            "Pollen",
-            "Puff",
-            "96.924%",
-            "Protect",
-            "58.109%",
-            "Clear",
-            "Smog",
-            "32.903%",
-            "Other",
-            "12.593%"
+        "Moves Spore": [
+            "99.897%"
         ],
-        "Teammates": [
-            "Flutter",
-            "Mane",
-            "63.017%",
-            "Iron",
-            "Hands",
-            "43.331%",
-            "Urshifu-Rapid-Strike",
-            "41.185%",
-            "Landorus-Therian",
-            "31.138%",
-            "Heatran",
-            "28.134%",
-            "Chien-Pao",
-            "24.906%",
-            "Gholdengo",
-            "22.017%",
-            "Chi-Yu",
-            "21.105%",
-            "Cresselia",
-            "19.505%",
-            "Gyarados",
-            "15.683%",
-            "Ursaluna",
-            "15.397%"
+        "Teammates Flutter": [
+            "Mane"
         ],
-        "Checks": [
-            "and",
+        "Checks and": [
             "Counters"
         ]
     },
     "Tornadus": {
-        "Abilities": [
-            "Prankster",
-            "99.996%",
-            "Defiant",
-            "0.004%"
+        "Abilities Prankster": [
+            "99.996%"
         ],
-        "Items": [
-            "Covert",
-            "Cloak",
-            "32.113%",
-            "Mental",
-            "Herb",
-            "20.167%",
-            "Rocky",
-            "Helmet",
-            "12.304%",
-            "Sitrus",
-            "Berry",
-            "11.581%",
-            "Focus",
-            "Sash",
-            "9.772%",
-            "Wiki",
-            "Berry",
-            "7.238%",
-            "Wide",
-            "Lens",
-            "1.781%",
-            "Life",
-            "Orb",
-            "1.251%",
-            "Other",
-            "3.792%"
+        "Items Covert": [
+            "Cloak"
         ],
-        "Spreads": [
-            "Timid:4/0/0/252/0/252",
-            "10.001%",
-            "Modest:252/0/220/36/0/0",
-            "6.996%",
-            "Bold:244/0/244/4/4/12",
-            "4.125%",
-            "Timid:4/0/44/204/4/252",
-            "3.622%",
-            "Bold:164/0/172/76/4/92",
-            "2.694%",
-            "Modest:172/0/0/116/0/220",
-            "2.486%",
-            "Other",
-            "70.076%"
+        "Spreads Timid:4/0/0/252/0/252": [
+            "10.001%"
         ],
-        "Moves": [
-            "Tailwind",
-            "99.934%",
-            "Bleakwind",
-            "Storm",
-            "93.565%",
-            "Taunt",
-            "71.647%",
-            "Rain",
-            "Dance",
-            "41.864%",
-            "Sunny",
-            "Day",
-            "26.856%",
-            "Protect",
-            "26.774%",
-            "Icy",
-            "Wind",
-            "22.693%",
-            "Other",
-            "16.666%"
+        "Moves Tailwind": [
+            "99.934%"
         ],
-        "Teammates": [
-            "Flutter",
-            "Mane",
-            "56.994%",
-            "Urshifu-Rapid-Strike",
-            "52.645%",
-            "Gholdengo",
-            "34.292%",
-            "Rillaboom",
-            "30.119%",
-            "Chien-Pao",
-            "26.916%",
-            "Landorus-Therian",
-            "25.168%",
-            "Chi-Yu",
-            "19.985%",
-            "Urshifu",
-            "19.016%",
-            "Iron",
-            "Hands",
-            "15.279%",
-            "Dragonite",
-            "14.002%",
-            "Amoonguss",
-            "13.410%"
+        "Teammates Flutter": [
+            "Mane"
         ],
-        "Checks": [
-            "and",
+        "Checks and": [
             "Counters"
         ]
     }
